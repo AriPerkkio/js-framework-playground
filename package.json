@@ -1,6 +1,6 @@
 {
-  "name": "y",
-  "version": "y",
+  "name": "js-framework-playground",
+  "version": "1.0.0",
   "description": "Testing setup for JS frameworks",
   "main": "index.js",
   "workspaces": [
