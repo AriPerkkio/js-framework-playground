@@ -1,10 +1,10 @@
 {
-  "name": "js-framework-playground-web-components",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "private": true,
-  "scripts": {
-      "start": "live-server --no-browser --host=localhost --port=8888 --entry-file=./src/index.html"
-  }
+    "name": "js-framework-playground-web-components",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "start": "live-server --no-browser --host=localhost --port=8888 --entry-file=./src/index.html"
+    }
 }
