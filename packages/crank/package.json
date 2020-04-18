@@ -1,0 +1,9 @@
+{
+    "name": "js-framework-playground-crank",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@bikeshaving/crank": "^0.1.0"
+    }
+}
